@@ -1,6 +1,6 @@
 <?php
 echo "<h1>Hello OpenShift 2016-12-02<h1>";
-echo "Greetings:New2";
+echo "Greetings:New23";
 echo getenv("GREETINGS");
 echo "<br>";
 
